@@ -1,3 +1,3 @@
 # Single-Page-CV
-This is a beginner project that uses HTML to make a single-page CV \n
+This is a beginner project that uses HTML to make a single-page CV
 Project Page URL: https://roadmap.sh/projects/single-page-cv
